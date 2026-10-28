@@ -1,0 +1,16 @@
+# Versions are minimum tested-family ranges, not pinned. After everything works on your laptop,
+# run `pip freeze > requirements.lock.txt` to record the exact versions you used.
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pydantic>=2.6
+PyJWT>=2.8
+bcrypt>=4.1
+PyMuPDF>=1.24
+sentence-transformers>=3.0
+chromadb>=0.5
+streamlit>=1.35
+requests>=2.31
+python-dotenv>=1.0
+pytest>=8.0
+httpx>=0.27

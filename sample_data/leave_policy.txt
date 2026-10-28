@@ -1,0 +1,9 @@
+Leave Policy - Acme Pvt Ltd (fictional sample document)
+
+Casual leave: Every employee receives 12 casual leave days per calendar year. Casual leave cannot be carried forward to the next year.
+
+Sick leave: Employees receive 10 paid sick leave days per year. A medical certificate is required when sick leave lasts more than 3 consecutive days.
+
+Maternity leave: Female employees are entitled to 26 weeks of paid maternity leave.
+
+How to apply: Submit leave requests in the HR portal at least 2 working days before the leave starts, except in emergencies.

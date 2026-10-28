@@ -1,0 +1,7 @@
+Salary Bands - Acme Pvt Ltd (fictional, CONFIDENTIAL: HR and Admin only)
+
+Band L2 Junior Engineer: 6 to 9 lakh rupees per year.
+Band L3 Engineer: 10 to 16 lakh rupees per year.
+Band L4 Senior Engineer: 18 to 26 lakh rupees per year.
+
+Annual performance bonus ranges from 5 percent to 15 percent of base salary. Salary increments are reviewed every April.

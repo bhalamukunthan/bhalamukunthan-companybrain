@@ -1,0 +1,9 @@
+Deployment Guide - Acme Pvt Ltd (fictional, Engineering and Admin only)
+
+Every release is deployed to the staging environment first and tested for one day before production.
+
+Production deployments are frozen on Fridays. Emergency fixes need approval from the engineering manager.
+
+To roll back a failed deployment, run the rollback script with the previous release tag and notify the on-call engineer in the incident channel.
+
+The on-call engineer rotates every Monday at 10 AM.

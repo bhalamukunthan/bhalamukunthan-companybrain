@@ -1,0 +1,6 @@
+[
+  {"file": "leave_policy.txt",     "title": "Leave Policy",     "department": "HR",          "allowed_roles": ["employee", "hr", "engineering"]},
+  {"file": "salary_bands.txt",     "title": "Salary Bands",     "department": "HR",          "allowed_roles": ["hr"]},
+  {"file": "deployment_guide.txt", "title": "Deployment Guide", "department": "Engineering", "allowed_roles": ["engineering"]},
+  {"file": "onboarding_guide.txt", "title": "Onboarding Guide", "department": "General",     "allowed_roles": ["employee", "hr", "engineering"]}
+]

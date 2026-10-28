@@ -1,0 +1,10 @@
+[
+  {"question": "How many casual leave days do I get?", "role": "employee", "expected_doc": "leave_policy.txt", "keyword": "12 casual leave", "forbidden_doc": null},
+  {"question": "When do I need a medical certificate?", "role": "employee", "expected_doc": "leave_policy.txt", "keyword": "3 consecutive days", "forbidden_doc": null},
+  {"question": "How long is maternity leave?", "role": "employee", "expected_doc": "leave_policy.txt", "keyword": "26 weeks", "forbidden_doc": null},
+  {"question": "What are the office working hours?", "role": "employee", "expected_doc": "onboarding_guide.txt", "keyword": "9:30", "forbidden_doc": null},
+  {"question": "What is the salary range for a senior engineer?", "role": "hr", "expected_doc": "salary_bands.txt", "keyword": "L4", "forbidden_doc": null},
+  {"question": "What is the salary range for a senior engineer?", "role": "employee", "expected_doc": null, "keyword": null, "forbidden_doc": "salary_bands.txt"},
+  {"question": "How do I roll back a failed deployment?", "role": "engineering", "expected_doc": "deployment_guide.txt", "keyword": "rollback script", "forbidden_doc": null},
+  {"question": "How do I roll back a failed deployment?", "role": "employee", "expected_doc": null, "keyword": null, "forbidden_doc": "deployment_guide.txt"}
+]

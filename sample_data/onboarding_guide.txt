@@ -1,0 +1,9 @@
+Onboarding Guide - Acme Pvt Ltd (fictional sample document)
+
+Laptop: Every new employee receives a laptop on the first day from the IT desk on the ground floor.
+
+Buddy program: Each new joiner is paired with a buddy for the first 30 days.
+
+Working hours: Office hours are 9:30 AM to 6:00 PM, Monday to Friday. Employees may work from home on Wednesdays.
+
+Wi-Fi: Connect to the Acme-Staff network using your company email login.
